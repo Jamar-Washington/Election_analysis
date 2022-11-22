@@ -3,6 +3,9 @@
 ## Project Overview
 In the PyPoll project, we are helping Tom, who works at the Colorado Board of Elections, with getting the results of a congressional seat in the state of Colorado. His manager wants to use Python to automate the process by taking the data from an CSV file. He has asked us to help find the total number of votes, the number of votes each candidate recieved, the percentage of votes each candidate recieved, and which candidate won the election by popular vote.
 
+### Tools used in the project
+**Python**
+
 ## Election-Audit
 ### Results
 
